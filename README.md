@@ -1,0 +1,1 @@
+This website will host basic HTML recipes. It will allow me to practice the use of HTML to create web pages with paragraphs, images, links, and lists. 
